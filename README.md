@@ -1,4 +1,4 @@
-# work_management_app
+# example-vue-workflow
 
 これは、Hexabaseのフロントエンドプログラムに利用できる、管理画面／ダッシュボードのサンプルプログラムです。サイドメニューから複数のページを切り替えできます。
 
